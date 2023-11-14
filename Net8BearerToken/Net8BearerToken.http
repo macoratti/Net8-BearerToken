@@ -1,0 +1,6 @@
+@Net8BearerToken_HostAddress = http://localhost:5138
+
+GET {{Net8BearerToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
